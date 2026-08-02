@@ -1,12 +1,10 @@
 <?php
 /**
  * Plugin Name: Particle Fall
- * Plugin URI: https://z.ai
  * Description: Falling particle animation on any block by CSS class. File-based presets, i18n (RU/EN), live preview. Compatible with Elementor.
  * Version: 1.3.1
- * Author: Z.ai
+ * Author: Sayikoro
  * Text Domain: particle-fall
- * Domain Path: /languages
  * Requires at least: 5.0
  * Requires PHP: 7.4
  */
