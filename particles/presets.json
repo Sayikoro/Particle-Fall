@@ -1,0 +1,57 @@
+{
+  "new-year/snowflake": {
+    "label": { "ru": "Снежинка", "en": "Snowflake" },
+    "group": { "ru": "Новый год", "en": "New Year" },
+    "color": "#e3f2fd"
+  },
+   "new-year/snowflake1": {
+    "label": { "ru": "Снежинка1", "en": "Snowflake1" },
+    "group": { "ru": "Новый год", "en": "New Year" },
+    "color": "#e3f2fd"
+  },
+   "new-year/snowflake2": {
+    "label": { "ru": "Снежинк2", "en": "Snowflake2" },
+    "group": { "ru": "Новый год", "en": "New Year" },
+    "color": "#e3f2fd"
+  },
+   "new-year/snowflake3": {
+    "label": { "ru": "Снежинка3", "en": "Snowflake3" },
+    "group": { "ru": "Новый год", "en": "New Year" },
+    "color": "#e3f2fd"
+  },
+  "new-year/star": {
+    "label": { "ru": "Звезда", "en": "Star" },
+    "group": { "ru": "Новый год", "en": "New Year" },
+    "color": "#ffd600"
+  },
+  "summer/sun": {
+    "label": { "ru": "Солнце", "en": "Sun" },
+    "group": { "ru": "Лето", "en": "Summer" },
+    "color": "#ffeb3b"
+  },
+  "summer/flower": {
+    "label": { "ru": "Цветок", "en": "Flower" },
+    "group": { "ru": "Лето", "en": "Summer" },
+    "color": "#f48fb1"
+  },
+  "autumn/leaf": {
+    "label": { "ru": "Лист", "en": "Leaf" },
+    "group": { "ru": "Осень", "en": "Autumn" },
+    "color": "#e65100"
+  },
+  "autumn/acorn": {
+    "label": { "ru": "Жёлудь", "en": "Acorn" },
+    "group": { "ru": "Осень", "en": "Autumn" },
+    "color": "#8d6e63"
+  },
+  "halloween/pumpkin": {
+    "label": { "ru": "Тыква", "en": "Pumpkin" },
+    "group": { "ru": "Хэллоуин", "en": "Halloween" },
+    "color": "#ff9800"
+  },
+  "halloween/bat": {
+    "label": { "ru": "Летучая мышь", "en": "Bat" },
+    "group": { "ru": "Хэллоуин", "en": "Halloween" },
+    "color": "#37474f"
+  }
+}

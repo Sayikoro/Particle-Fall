@@ -1,0 +1,23 @@
+<svg viewBox="-100 -100 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <g id="ray3">
+      <line x1="0" y1="0" x2="0" y2="-90" stroke="#b39ddb" stroke-width="5" stroke-linecap="round"/>
+      <line x1="0" y1="-30" x2="-20" y2="-45" stroke="#b39ddb" stroke-width="3" stroke-linecap="round"/>
+      <line x1="0" y1="-30" x2="20" y2="-45" stroke="#b39ddb" stroke-width="3" stroke-linecap="round"/>
+      <line x1="0" y1="-55" x2="-12" y2="-65" stroke="#b39ddb" stroke-width="2" stroke-linecap="round"/>
+      <line x1="0" y1="-55" x2="12" y2="-65" stroke="#b39ddb" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-90" r="5" fill="#b39ddb"/>
+      <!-- дополнительные точки -->
+      <circle cx="0" cy="-45" r="3" fill="#b39ddb"/>
+    </g>
+  </defs>
+  <circle cx="0" cy="0" r="6" fill="#b39ddb"/>
+  <use href="#ray3" transform="rotate(0)"/>
+  <use href="#ray3" transform="rotate(45)"/>
+  <use href="#ray3" transform="rotate(90)"/>
+  <use href="#ray3" transform="rotate(135)"/>
+  <use href="#ray3" transform="rotate(180)"/>
+  <use href="#ray3" transform="rotate(225)"/>
+  <use href="#ray3" transform="rotate(270)"/>
+  <use href="#ray3" transform="rotate(315)"/>
+</svg>

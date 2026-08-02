@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="#fff">
+  <defs>
+    <polygon id="r" points="32,2 35.5,14 28.5,14"/>
+  </defs>
+  <circle cx="32" cy="32" r="11"/>
+  <use href="#r"/>
+  <use href="#r" transform="rotate(45 32 32)"/>
+  <use href="#r" transform="rotate(90 32 32)"/>
+  <use href="#r" transform="rotate(135 32 32)"/>
+  <use href="#r" transform="rotate(180 32 32)"/>
+  <use href="#r" transform="rotate(225 32 32)"/>
+  <use href="#r" transform="rotate(270 32 32)"/>
+  <use href="#r" transform="rotate(315 32 32)"/>
+</svg>

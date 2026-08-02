@@ -1,0 +1,20 @@
+<svg viewBox="-100 -100 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <g id="ray1">
+      <line x1="0" y1="0" x2="0" y2="-80" stroke="#4fc3f7" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="0" cy="-80" r="4" fill="#4fc3f7"/>
+      <!-- маленькие веточки -->
+      <line x1="0" y1="-40" x2="-15" y2="-55" stroke="#4fc3f7" stroke-width="2" stroke-linecap="round"/>
+      <line x1="0" y1="-40" x2="15" y2="-55" stroke="#4fc3f7" stroke-width="2" stroke-linecap="round"/>
+      <line x1="0" y1="-60" x2="-10" y2="-70" stroke="#4fc3f7" stroke-width="2" stroke-linecap="round"/>
+      <line x1="0" y1="-60" x2="10" y2="-70" stroke="#4fc3f7" stroke-width="2" stroke-linecap="round"/>
+    </g>
+  </defs>
+  <circle cx="0" cy="0" r="4" fill="#4fc3f7"/>
+  <use href="#ray1" transform="rotate(0)"/>
+  <use href="#ray1" transform="rotate(60)"/>
+  <use href="#ray1" transform="rotate(120)"/>
+  <use href="#ray1" transform="rotate(180)"/>
+  <use href="#ray1" transform="rotate(240)"/>
+  <use href="#ray1" transform="rotate(300)"/>
+</svg>
